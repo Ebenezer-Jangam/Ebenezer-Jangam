@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezer-jangam&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezer-jangam" /> </p>
 
-- 🔭 I’m currently working on **Automatic Detection of COVID-19**
+- 🔭 I’m currently working on **AI for Climate Change**
 
-- 🌱 I’m currently learning **TinyML, NLP, Advanced topics in Deep Learning**
+- 🌱 I’m currently learning **Gen AI and its applications**
 
 - 👯 I’m looking to collaborate on **Any data science projects**
 
