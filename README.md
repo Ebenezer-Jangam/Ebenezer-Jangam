@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dr Ebenezer Jangam</h1>
-<h3 align="center">A passionate and skilled researcher from India</h3>
+<h1 align="center">Hi 👋, I'm Ebenezer Jangam</h1>
+<h3 align="center">A passionate and skilled Interdisciplinary researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezer-jangam&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezer-jangam" /> </p>
 
